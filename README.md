@@ -1,12 +1,12 @@
 # 🌍 INDIA AIR QUALITY ANALYTICS 2026
 
-## 📌 Project Overview
+##  Project Overview
 
 India Air Quality Analytics 2026 is an interactive Power BI dashboard project developed to analyze air pollution levels across various cities and states in India. The dashboard helps monitor pollution trends, identify highly polluted regions, and understand pollutant distribution through visual analytics.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze air quality trends across India.
 - Identify highly polluted cities and states.
@@ -99,9 +99,10 @@ India Air Quality Analytics 2026 is an interactive Power BI dashboard project de
 
 ##  Dashboard Preview
 
-_Add your dashboard screenshot here._
 
-![Dashboard Preview](dashboard.png)
+
+<img width="1389" height="784" alt="Air Dashboard" src="https://github.com/user-attachments/assets/5fa7898b-7be9-4ca7-82b3-a272247435aa" />
+
 
 ---
 
@@ -114,5 +115,4 @@ This project provides meaningful insights into India’s air quality conditions 
 ##  Author
 
 **Sowmiya M**  
-Aspiring Data Analyst | Power BI Enthusiast | Passionate About Data Visualization and Analytics<img width="1389" height="784" alt="Air Dashboard" src="https://github.com/user-attachments/assets/5fa7898b-7be9-4ca7-82b3-a272247435aa" />
-
+Aspiring Data Analyst | Power BI Enthusiast | Passionate About Data Visualization and Analytics
