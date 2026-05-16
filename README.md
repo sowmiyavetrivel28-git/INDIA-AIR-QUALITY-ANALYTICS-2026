@@ -81,11 +81,32 @@ India Air Quality Analytics 2026 is an interactive Power BI dashboard project de
 
 ##  Key Insights
 
+### 🔹 Descriptive Analysis
+
+- The dashboard contains over 3.4K pollution records for analysis.
+- The overall average pollution level recorded is 44.32.
+- The maximum pollution value recorded in the dataset is 500.
+- Analyzed AQI categories and pollutant distribution across India.
+
+### 🔹 Diagnostic Analysis
+
+- PM10 and PM2.5 are the major contributors to air pollution.
 - Khora recorded the highest average pollution level among cities with an AQI value of 134.
 - Himachal Pradesh showed the highest pollution level among states with an AQI value of 93.
-- PM10 and PM2.5 are major contributors to air pollution.
-- Most AQI records fall under Good and Moderate categories.
-- Pollution levels vary significantly across regions.
+- Pollution levels vary significantly across different regions.
+
+### 🔹 Predictive Analysis
+
+- Pollution levels may continue to increase in highly affected regions if current trends continue.
+- Cities with consistently high AQI values may experience severe air quality conditions in the future.
+- PM10 and PM2.5 pollutants are likely to remain major pollution contributors.
+
+### 🔹 Prescriptive Analysis
+
+- Focus on reducing PM10 and PM2.5 emissions in highly polluted regions.
+- Strengthen pollution monitoring systems and environmental awareness programs.
+- Encourage green initiatives and pollution control measures to improve air quality.
+- Implement stricter environmental policies in high AQI regions.
 
 ### Key Metrics
 
